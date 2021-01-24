@@ -1,1 +1,1 @@
-# enrichment-sims
+R code for the paper, "Managers are not to blame for the prevalence of low enrichment: A sampling model of satisfaction as an alternative."
